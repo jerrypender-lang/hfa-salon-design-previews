@@ -1,0 +1,213 @@
+{
+  "researchedAt": "2026-11-04",
+  "status": "Independent design concept by Human First Automations. Not commissioned, approved or endorsed by Sugar Polish Nail Bar.",
+  "business": {
+    "name": "Sugar Polish Nail Bar — Terminal South",
+    "address": "1161 Ridge Ave SW, Suite 101, Atlanta, GA 30315",
+    "phone": "(404) 855-5393",
+    "sources": [
+      {
+        "url": "https://www.facebook.com/sugarpolishterminalsouth/photos",
+        "supports": "User-supplied photos link; no Facebook media copied."
+      },
+      {
+        "url": "https://www.sugarpolish.com/locations",
+        "supports": "Brand identity"
+      },
+      {
+        "url": "https://www.nailsalondirectories.com/georgia/atlanta",
+        "supports": "Terminal South location, address and phone"
+      },
+      {
+        "url": "https://whatnow.com/atlanta/retail/sugar-polish-nail-bar-planned-for-peoplestown/",
+        "supports": "Brand-level service categories; current location menu to be confirmed directly."
+      }
+    ]
+  },
+  "design": {
+    "wordmark": "Proposed typographic treatment for the independent demo.",
+    "photography": "Licensed editorial imagery and films, not verified salon work."
+  },
+  "media": {
+    "manifestVersion": 1,
+    "createdAt": "2026-10-13",
+    "purpose": "Licensed stock reference media for the Sugar Polish Nail Bar editorial website. These images and clips illustrate mood and craft only; they do not depict or claim to show the salon, its staff, clients, services, or results.",
+    "license": {
+      "provider": "Pexels",
+      "name": "Pexels License",
+      "url": "https://www.pexels.com/license/",
+      "attribution": "Attribution is not required by the Pexels License; artist credit and source links are retained here for provenance.",
+      "usage": "Website editorial inspiration and promotional presentation within the license terms. Reconfirm availability and license terms before any derivative reuse outside this project."
+    },
+    "assets": [
+      {
+        "file": "public/media/hero.webp",
+        "type": "image",
+        "dimensions": "1800x1200",
+        "bytes": 60572,
+        "sha256": "2f42568b967dd02fdd71956103ecff56f423a2b9116b5ec6ef98cb94ce3b3597",
+        "title": "Close-up Photo of Manicuring of Nails",
+        "author": "Gabriel Puyén",
+        "sourceUrl": "https://www.pexels.com/photo/close-up-photo-of-manicuring-of-nails-6135684/",
+        "sourceId": "6135684",
+        "role": "Hero / ivory editorial manicure process"
+      },
+      {
+        "file": "public/media/look-1.webp",
+        "type": "image",
+        "dimensions": "1800x1200",
+        "bytes": 55952,
+        "sha256": "eea606a53f2a37c2a7ab78289c25f110692ef3fd6e15c00afda2e0d1bab7c6ad",
+        "title": "Close-Up of Hands with Manicured Nails in Red Attire",
+        "author": "Zulfugar Karimov",
+        "sourceUrl": "https://www.pexels.com/photo/close-up-of-hands-with-manicured-nails-in-red-attire-39365946/",
+        "sourceId": "39365946",
+        "role": "Burgundy editorial nail look"
+      },
+      {
+        "file": "public/media/look-2.webp",
+        "type": "image",
+        "dimensions": "1800x2706",
+        "bytes": 77680,
+        "sha256": "5056d87661d43f79652ef8bd4acda8ef415411f05d2538a97240d7b3dbfe254b",
+        "title": "Hands with Manicured Nails in Close-Up Photography",
+        "author": "PNW Production",
+        "sourceUrl": "https://www.pexels.com/photo/hands-with-manicured-nails-in-close-up-photography-8377206/",
+        "sourceId": "8377206",
+        "role": "Soft ivory hand detail"
+      },
+      {
+        "file": "public/media/look-3.webp",
+        "type": "image",
+        "dimensions": "1800x2700",
+        "bytes": 93594,
+        "sha256": "c6f6735bee605282c39b328e38dcdbc77f854e8c96cef0437b178cebe0d4be6f",
+        "title": "Close Up Shot of a Person's Finger Nails",
+        "author": "REAFON GATES",
+        "sourceUrl": "https://www.pexels.com/photo/close-up-shot-of-a-person-s-finger-nails-7118662/",
+        "sourceId": "7118662",
+        "role": "Detailed nail-art close-up"
+      },
+      {
+        "file": "public/media/look-4.webp",
+        "type": "image",
+        "dimensions": "1800x2626",
+        "bytes": 71706,
+        "sha256": "2d082dc45b90d1b99d7a93e773df213185a75c27341faa903185686e6483688f",
+        "title": "Red Nails Near Mirror",
+        "author": "Umay Karataş",
+        "sourceUrl": "https://www.pexels.com/photo/red-nails-near-mirror-14715677/",
+        "sourceId": "14715677",
+        "role": "Deep-red accent look"
+      },
+      {
+        "file": "public/media/look-5.webp",
+        "type": "image",
+        "dimensions": "1800x2700",
+        "bytes": 135810,
+        "sha256": "c9d894e6767d8048ee7b76c95414852226d7bba441ee38d4bb6d429001d7006e",
+        "title": "Close-up of Female Hand with French Manicure",
+        "author": "Salim Da",
+        "sourceUrl": "https://www.pexels.com/photo/close-up-of-female-hand-with-french-manicure-34997562/",
+        "sourceId": "34997562",
+        "role": "French-manicure editorial look"
+      },
+      {
+        "file": "public/media/manicure-polish.mp4",
+        "type": "video",
+        "dimensions": "1920x1080",
+        "durationSeconds": 9.467,
+        "bytes": 2791034,
+        "sha256": "66832f59a8bc60be62b841a72593b54a8f36082aba9bc82c0f2cad89032f296c",
+        "title": "manicure taking care of a woman´s nails",
+        "author": "Max Costa",
+        "sourceUrl": "https://www.pexels.com/video/manicure-taking-care-of-a-woman-s-nails-16117268/",
+        "sourceId": "16117268",
+        "role": "Light, precise polish application loop"
+      },
+      {
+        "file": "public/media/manicure-dark-polish.mp4",
+        "type": "video",
+        "dimensions": "1920x1080",
+        "durationSeconds": 17.5,
+        "bytes": 6210370,
+        "sha256": "e039db6886dcc5ad5393a27c42cef1651a984908fcfe3c37e990579362a1d68a",
+        "title": "manicurist working on nail",
+        "author": "Max Costa",
+        "sourceUrl": "https://www.pexels.com/video/manicurist-working-on-nail-16117306/",
+        "sourceId": "16117306",
+        "role": "Dark-polish professional manicure detail loop"
+      },
+      {
+        "file": "public/media/hero-french-720.webp",
+        "type": "image",
+        "dimensions": "720x1080",
+        "bytes": 38960,
+        "sha256": "cd100ef563b3ac4a648fa0497ffa8c4f1d4892dab08ea2bc753ccd29f59a81c9",
+        "title": "Close-up of Female Hand with French Manicure",
+        "author": "Salim Da",
+        "sourceUrl": "https://www.pexels.com/photo/close-up-of-female-hand-with-french-manicure-34997562/",
+        "sourceId": "34997562",
+        "role": "Responsive hero derivative",
+        "derivativeOf": "public/media/look-5.webp"
+      },
+      {
+        "file": "public/media/hero-french-1200.webp",
+        "type": "image",
+        "dimensions": "1200x1800",
+        "bytes": 79770,
+        "sha256": "9b04308bde7d028b0a76821c4305b167d17e309b6d1950552ee89e9736f8f12b",
+        "title": "Close-up of Female Hand with French Manicure",
+        "author": "Salim Da",
+        "sourceUrl": "https://www.pexels.com/photo/close-up-of-female-hand-with-french-manicure-34997562/",
+        "sourceId": "34997562",
+        "role": "Responsive hero derivative",
+        "derivativeOf": "public/media/look-5.webp"
+      }
+    ]
+  },
+  "fonts": {
+    "manifestVersion": 1,
+    "createdAt": "2026-10-13",
+    "purpose": "Self-hosted, Latin-subset web fonts for Sugar Polish Nail Bar. These files eliminate the page's runtime Google Fonts request when the accompanying CSS declarations replace the existing @import.",
+    "license": {
+      "name": "SIL Open Font License, Version 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/",
+      "usage": "The full upstream license text for each family is included beside its WOFF2 file. Preserve the license records with the corresponding font files."
+    },
+    "fonts": [
+      {
+        "family": "DM Sans",
+        "file": "public/media/fonts/dm-sans-latin-400-700-normal.woff2",
+        "format": "woff2",
+        "style": "normal",
+        "weight": "400 700",
+        "subset": "latin",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "bytes": 62724,
+        "sha256": "ca72d2bcea8f4daa783dbdfa2d9b46068c3ce38168e05918fb867aa453b4f890",
+        "sourceCssUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400..700&display=swap",
+        "sourceFontUrl": "https://fonts.gstatic.com/s/dmsans/v17/rP2Hp2ywxg089UriCZOIHQ.woff2",
+        "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/dmsans",
+        "licenseFile": "public/media/fonts/OFL-DM-Sans.txt",
+        "licenseSha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+      },
+      {
+        "family": "Italiana",
+        "file": "public/media/fonts/italiana-latin-400-normal.woff2",
+        "format": "woff2",
+        "style": "normal",
+        "weight": "400",
+        "subset": "latin",
+        "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+        "bytes": 10100,
+        "sha256": "5079c87a4e86c58e8cd4f18ec2d3255918b7d565708ed934b15c4710301f838c",
+        "sourceCssUrl": "https://fonts.googleapis.com/css2?family=Italiana&display=swap",
+        "sourceFontUrl": "https://fonts.gstatic.com/s/italiana/v21/QldNNTtLsx4E__B0XQmWaXw.woff2",
+        "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/italiana",
+        "licenseFile": "public/media/fonts/OFL-Italiana.txt",
+        "licenseSha256": "486c4d5b9baf0d0ba5546ef3c43fcfe22c062299ab6948045a43efffe4b0f74b"
+      }
+    ]
+  }
+}
